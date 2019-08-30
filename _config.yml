@@ -10,9 +10,9 @@
 app:
   name: Awesome App # REQUIRED - Enter your app name
   ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  android_id: com.dagangan.store # Optional - Enter Android app id like: com.example.app
 
-  icon: # Leave blank to auto-magically populate
+  icon: https://i.ibb.co/xDZcY2J/Android-512-square.png  # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
@@ -93,7 +93,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
+title: Dagangan - Stok Warung dengan Mudah dan Murah # Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
